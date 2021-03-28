@@ -1,0 +1,6 @@
+.wppizza-article-grid .wppizza-article-prices>ul>li { color: #78a140; font-weight: 600; padding: 0 15px 0 15px; }
+ .wppizza-article-grid .wppizza-article-image .wppizza-article-image-thumb { margin: 3px 0 0 0 !important; }
+ .wppizza-opening-hours>span>span { padding: 3px; text-transform: uppercase !important; }
+ #wppizza-minicart.wppizza-minicart-fixed .wppizza-totals-opacity { opacity: 0.7; }
+ @media only screen and (max-width: 480px){ .wppizza-grid-section { display: block; overflow: visible !important; }
+ }
